@@ -28,6 +28,11 @@ To execute the ICP registration, simply run the main.py script:
 
 ## Visualization
 This code uses Open3D's visualization capabilities to display the point clouds before and after the ICP registration process. The target point cloud is colored red, and after alignment, the source point cloud is displayed in its original color.
+### Before alignment
+<img width="494" alt="image" src="https://github.com/omkarsawant99/Iterative_Closest_Point/assets/112906388/3e3fa38e-8138-4bb0-81c8-17749fb4b843">
+
+### After alignment
+<img width="485" alt="image" src="https://github.com/omkarsawant99/Iterative_Closest_Point/assets/112906388/b45da16e-b83b-41ea-842d-9a77091c0300">
 
 ## Notes
 Ensure you have the latest version of Open3D installed, as older versions may not support some functionalities used in this code.
